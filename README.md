@@ -3,8 +3,9 @@ This Network Scanner is a small script that I made as a challenge for college wi
 ------------------------------------------------
 How to use Scanner.py
 1 - Install it in your machine 
-2 - Chmod a+x scanner.py
-3 - python3 scanner.py -i eth0
+2 - sudo su
+3 - Chmod a+x scanner.py
+4 - python3 scanner.py -i eth0
 
 
 ---------sintaxe---------------
